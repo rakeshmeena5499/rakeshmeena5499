@@ -9,10 +9,10 @@
   
 
 Find me:
-<!--
-<a href="https://www.youtube.com/channel/UCmCiv_Yr_XY8nUlNjktjigQ" target="_blank">
+<a href="https://www.youtube.com/channel/UChN3i7lco-n7z9oCggu7Uhg" target="_blank">
   <img alt="YouTube" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
+<!--
 <a href="https://www.twitter.com/0xmmalik" target="_blank">
   <img alt="Twitter" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
