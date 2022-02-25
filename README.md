@@ -30,7 +30,7 @@ Find me:
 -->
 <a href="https://rakeshmeena5499.github.io" target="_blank">Website</a>
   <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshmeena5499"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshmeena5499&langs_count=3">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshmeena5499"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshmeena5499&langs_count=4">
 </div>
 
 <!--
