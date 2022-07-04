@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on capstone project
 - 🌱 I’m currently learning backend
-<!-- - 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with spring
-<!-- - 💬 Ask me about ...-->
-<!-- - 📫 How to reach me: ...-->
 - 😄 Pronouns: Heckur 👽
 - ⚡ Fun fact: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target=_blank>:(){:|:&};:</a>
+<!-- - 👯 I’m looking to collaborate on ...-->
+<!-- - 💬 Ask me about ...-->
+<!-- - 📫 How to reach me: ...-->
