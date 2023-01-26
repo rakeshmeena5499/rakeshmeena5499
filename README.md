@@ -43,6 +43,17 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Java Spring
 - 😄 Pronouns: Heckur 👽
 - ⚡ Fun fact: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target=_blank>:(){:|:&};:</a>
-<!-- - 👯 I’m looking to collaborate on ...-->
-<!-- - 💬 Ask me about ...-->
-<!-- - 📫 How to reach me: ...-->
+
+## <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" height=30/> Hacking Experiences:
+<script src="https://tryhackme.com/badge/1242440"></script>
+
+    
+## <img src="./assets/tools.jpg" height=20/> Languages and Tools
+<p align="left"> 
+    <a href="https://www.linux.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
+    <a href="https://portswigger.net/burp" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/ios-filled/48/fa314a/burp-suite.png"/></a>
+    <a href="https://sqlmap.org/" target="_blank"> <img width="50" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png"/></a>   
+    <a href="https://www.python.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/python.png"/> </a>
+    <a href="https://www.javascript.com/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/fa314a/javascript.png"/> </a>
+ </p>
+
