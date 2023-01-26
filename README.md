@@ -29,7 +29,7 @@ Find me:
 - ⚡ Fun fact: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target=_blank>:(){:|:&};:</a>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" height=30/> Hacking Experiences:
-<a href="https://tryhackme.com/p/anonking64" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/anonking64.png" alt="TryHackMe" height=60 width=250/>
+<a href="https://tryhackme.com/p/anonking64" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/anonking64.png" alt="TryHackMe" height=80 width=250/>
 
     
 ## <img src="https://cdn-icons-png.flaticon.com/512/807/807313.png" height=20/> Languages and Tools
