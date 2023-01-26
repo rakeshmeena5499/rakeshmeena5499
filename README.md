@@ -28,11 +28,14 @@ Find me:
 - 😄 Pronouns: Hacker 👽
 - ⚡ Fun fact: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target=_blank>:(){:|:&};:</a>
 
+---
+
 ## <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" height=30/> Hacking Experiences:
 <a href="https://tryhackme.com/p/anonking64" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/anonking64.png" alt="TryHackMe" height=60 width=250/>
 
-    
-## <img src="https://cdn-icons-png.flaticon.com/512/807/807313.png" height=20/> Languages and Tools
+---  
+  
+## <img src="https://cdn-icons-png.flaticon.com/512/2099/2099058.png" height=20/> Languages and Tools
 <p align="left"> 
     <a href="https://www.linux.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://portswigger.net/burp" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/ios-filled/48/fa314a/burp-suite.png"/></a>
@@ -40,4 +43,3 @@ Find me:
     <a href="https://www.python.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/python.png"/> </a>
     <a href="https://www.javascript.com/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/fa314a/javascript.png"/> </a>
  </p>
-
