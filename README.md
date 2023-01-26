@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target=_blank>:(){:|:&};:</a>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" height=30/> Hacking Experiences:
-<script src="https://tryhackme.com/badge/1242440"></script>
+<a href="https://tryhackme.com/p/anonking64" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/anonking64.png" alt="TryHackMe" height=60 width=250/>
 
     
-## <img src="https://cdn.vectorstock.com/i/preview-1x/67/23/service-tools-icon-on-black-background-gear-wheel-vector-26816723.webp" height=20/> Languages and Tools
+## <img src="https://cdn-icons-png.flaticon.com/512/807/807313.png" height=20/> Languages and Tools
 <p align="left"> 
     <a href="https://www.linux.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://portswigger.net/burp" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/ios-filled/48/fa314a/burp-suite.png"/></a>
