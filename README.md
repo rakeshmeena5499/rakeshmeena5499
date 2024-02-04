@@ -22,9 +22,9 @@ Find me:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshmeena5499"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshmeena5499&hide=css&langs_count=3">
 </div>
 
-- 🔭 I’m currently working on Encryption & Authentication of CAN messages
-- 🌱 I’m currently learning Windows Exploitation on THM
-- 🤔 I’m looking for help with Embedded C
+- 🔭 I’m currently working on Web Development with Java
+- 🌱 I’m currently learning Spring Boot 
+- 🤔 I’m looking for help with Java
 - 😄 Pronouns: Hacker 👽
 - ⚡ Fun fact: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target=_blank>:(){:|:&};:</a>
 
